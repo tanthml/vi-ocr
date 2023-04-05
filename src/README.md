@@ -1,4 +1,4 @@
-# Vi-OCR from VietOCR
+# ViOCR from VietOCR
 Forked and Improving ...
 
 Quote from source:
