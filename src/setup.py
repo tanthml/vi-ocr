@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(	
     name="viocr",	
-    version="0.3.11",	
+    version="0.0.1",
     author="tanthml",	
     author_email="tanthm1102@gmail.com",	
     description="Transformer base text detection from pbcquoc@gmail.com",	
